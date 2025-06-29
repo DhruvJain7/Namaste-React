@@ -1,0 +1,38 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is my journey of mastering react.",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhruvJain7/Namaste-React.git"
+  },
+  "author": "Dhruv Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DhruvJain7/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/DhruvJain7/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.6.1",
+    "@tailwindcss/postcss": "^4.0.14",
+    "@types/react": "^18.3.20",
+    "@types/react-dom": "^18.3.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "6.4",
+    "tailwindcss": "^4.0.14"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
